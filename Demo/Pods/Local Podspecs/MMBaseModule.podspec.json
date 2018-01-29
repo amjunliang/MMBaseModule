@@ -18,11 +18,5 @@
     "ios": "8.0"
   },
   "source_files": "Classes/**/*",
-  "frameworks": "UIKit",
-  "subspecs": [
-    {
-      "name": "Category",
-      "source_files": "Classes/Category"
-    }
-  ]
+  "frameworks": "UIKit"
 }

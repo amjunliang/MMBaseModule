@@ -14,6 +14,7 @@
 		F630E697201B518500BCA6DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F630E696201B518500BCA6DC /* Assets.xcassets */; };
 		F630E69A201B518500BCA6DC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F630E698201B518500BCA6DC /* LaunchScreen.storyboard */; };
 		F630E69D201B518500BCA6DC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F630E69C201B518500BCA6DC /* main.m */; };
+		F630E71B201ECD3D00BCA6DC /* Classes in Resources */ = {isa = PBXBuildFile; fileRef = F630E71A201ECD3D00BCA6DC /* Classes */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		F630E699201B518500BCA6DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F630E69B201B518500BCA6DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F630E69C201B518500BCA6DC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F630E71A201ECD3D00BCA6DC /* Classes */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Classes; path = ../../Classes; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 		F630E68C201B518500BCA6DC /* Demo */ = {
 			isa = PBXGroup;
 			children = (
+				F630E71A201ECD3D00BCA6DC /* Classes */,
 				F630E68D201B518500BCA6DC /* AppDelegate.h */,
 				F630E68E201B518500BCA6DC /* AppDelegate.m */,
 				F630E690201B518500BCA6DC /* ViewController.h */,
@@ -157,6 +160,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F630E69A201B518500BCA6DC /* LaunchScreen.storyboard in Resources */,
+				F630E71B201ECD3D00BCA6DC /* Classes in Resources */,
 				F630E697201B518500BCA6DC /* Assets.xcassets in Resources */,
 				F630E695201B518500BCA6DC /* Main.storyboard in Resources */,
 			);

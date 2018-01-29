@@ -29,9 +29,9 @@ Pod::Spec.new do |s|
     
     # s.public_header_files = 'Pod/Classes/**/*.h'
     
-    s.subspec 'Category' do |sp|
-        sp.source_files = 'Classes/Category'
-    end
+    # s.subspec 'Category' do |sp|
+    #     sp.source_files = 'Classes/Category'
+    # end
     
     
 end
