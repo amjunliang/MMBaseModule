@@ -1,0 +1,12 @@
+PODS:
+  - MMBaseModule (1.0)
+
+DEPENDENCIES:
+  - MMBaseModule
+
+SPEC CHECKSUMS:
+  MMBaseModule: 5da0c10be865ccacd76d1ca9150e1272d0eba1e6
+
+PODFILE CHECKSUM: a9b8cc1e70d7b700ed03162a6bbfa264c2e74027
+
+COCOAPODS: 1.4.0
