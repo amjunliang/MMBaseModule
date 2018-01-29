@@ -4,7 +4,7 @@
 target 'Demo' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
-  pod 'MMBaseModule'#, #:git => 'https://github.com/amjunliang/MMBaseModule.git' #, :path => '../'
+  pod 'MMBaseModule' #,:path => '../' #:git => 'https://github.com/amjunliang/MMBaseModule.git' 
   use_frameworks!
   # Pods for Demo
 

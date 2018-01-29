@@ -25,7 +25,6 @@
 #import "UITextView+FitSize.h"
 #import "UIView+Custom.h"
 #import "UIView+frame.h"
-#import "UIView+TouchUpInsideEvent.h"
 #import "UIViewController+AlertView.h"
 #import "UIViewController+ShowHud.h"
 #import "DataUtil.h"
